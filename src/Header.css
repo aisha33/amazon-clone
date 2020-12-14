@@ -27,7 +27,7 @@
 }
 .header-searchIcon {
   padding: 5px;
-  height: 22 px !important;
+  height: 22px !important;
   background-color: #cd9042;
 }
 .header_optionLineOne {
@@ -57,3 +57,11 @@
   margin-left: 10px;
   margin-right: 10px;
 }
+.header_searchInput {
+  height: 12px;
+  padding: 10px;
+  border: none;
+  width: 100%;
+}
+
+ 
