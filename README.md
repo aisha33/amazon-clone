@@ -1,5 +1,5 @@
 Amazon Clone using react.js
-This project was bootstrapped with Create React App.
+
 
 In the project directory, you can run:
 
