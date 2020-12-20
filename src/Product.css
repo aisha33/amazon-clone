@@ -113,7 +113,7 @@
    }
    
      }
-    @media (min-width:800px) and (max-width:1200px) {
+     @media (min-width:800px) and (max-width:1200px) {
       .product{
         margin: 1%;
        min-height: 300px;
@@ -132,9 +132,54 @@
       
       
      }
+     .product > button {
+      margin-top: 10px;
+       margin-top: 30px;
+       margin-bottom: 5px;
+     
+     
+     
+     
+    }
     
      
        }
+       @media (min-width:600px) and (max-width:800px) {
+      
+       .product > button {
+        margin-top: 10px;
+         margin-top: 30px;
+         margin-bottom: 10px;
+         margin-left: 20%;
+       
+       
+       
+       
+      }
+      
+       
+         }
+
+       @media (min-width:400px) and (max-width:600px) {
+      
+      
+        .product > img:hover {
+          margin-bottom: 5px;
+          padding-bottom: 20px;
+        }
+        .product > button {
+          margin-top: 10px;
+           width: 70%;
+           margin-left: 15%;
+           margin-top: 30px;
+           margin-bottom: 5px;
+         
+         
+         
+         
+        }
+       }
+      
       
        @media  only screen and (max-width:400px) {
         .product{
