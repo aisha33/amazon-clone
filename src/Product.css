@@ -113,7 +113,7 @@
    }
    
      }
-     @media (min-width:800px) and (max-width:1200px) {
+    @media (min-width:800px) and (max-width:1200px) {
       .product{
         margin: 1%;
        min-height: 300px;
@@ -132,9 +132,6 @@
       
       
      }
-      .product > img:hover {
-       display: none;
-      }
     
      
        }
@@ -159,12 +156,11 @@
         
        }
        .product > img:hover {
-       display: none;
+        margin-bottom: 10px;
+        padding-bottom: 20px;
       }
       .product > button {
         margin-top: 10px;
-        
-         
          width: 100%;
          margin-left: 4%;
          margin-top: 30px;
