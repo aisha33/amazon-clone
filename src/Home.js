@@ -6,9 +6,7 @@ function Home() {
   return (
     <div className="home">
       <div className="home_contaier">
-        <img
-          src="https://images-eu.ssl-images-amazon.com/images/G/40/Gateway/Sunrise/CE/GW-DTH-Mobiles-latest-EN-1X._CB430761243_.jpg"
-          className="home_img" alt=""
+       
         />
 
         <div className="home_row ">
