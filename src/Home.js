@@ -16,7 +16,7 @@ function Home() {
             id="12345"
             title="Apple iPhone 11 Pro Max (512GB) - Space Grey"
             price={29.99}
-            image="https://5zznly.com/d/GMIQ8_51lrkZsL3RL._AC_SX184_-removebg-preview.png"
+            image="https://m.media-amazon.com/images/I/41+UKJYSieL._AC_SY580_.jpg"
             rating={5}
           />
           <Product
