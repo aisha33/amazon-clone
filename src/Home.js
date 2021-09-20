@@ -24,7 +24,7 @@ function Home() {
             id="638390"
             title="Asus Laptop X509MA-BR239T Intel Celeron N4020 Processor 1.1"
             price={70.99}
-            image="https://5zznly.com/d/tNG5L_41P4x6CKwRL._AA200_-removebg-preview.png"
+            image="https://m.media-amazon.com/images/I/71thpJDVxCL.jpg"
             rating={3}
           />
         </div>
